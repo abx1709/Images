@@ -12,6 +12,9 @@
     "address": "PK Agencies, Kerala, India",
     "hours": "Mon–Sat, 9 AM – 6 PM IST"
   },
+  "hero" :{
+    "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868844033332efe36946_Image1.webp"
+  },
   "categories": [
     {
       "id": "mats",
