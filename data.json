@@ -1,0 +1,310 @@
+{
+  "company": {
+    "name": "PK Agencies",
+    "tagline": "Your trusted supply partner.",
+    "description": "PK Agencies distributes a wide range of home, school, and lifestyle products across Kerala — from doormats and bottles to furnishings and housekeeping essentials.",
+    "region": "Kerala, India",
+    "type": "Authorised Distributor",
+    "speciality": "Home, School & Lifestyle",
+    "delivery": "Pan Kerala · Prompt",
+    "email": "info@pkagencies.in",
+    "phone": "+91 98765 43210",
+    "address": "PK Agencies, Kerala, India",
+    "hours": "Mon–Sat, 9 AM – 6 PM IST"
+  },
+  "categories": [
+    {
+      "id": "mats",
+      "name": "Mats & Carpets",
+      "tag": "Home",
+      "tagStyle": "blue",
+      "description": "Anti-skid door mats, cotton, rubber & coir mats, roll mats and carpet ranges for every home.",
+      "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86e1c3a152594b5d3963_Image3.webp",
+      "subcategories": [
+        {
+          "id": "antiskid",
+          "name": "Anti-Skid Door Mats",
+          "description": "Durable anti-skid mats for entrances and wet areas. Available in multiple sizes and designs.",
+          "products": [
+            {
+              "name": "Classic Anti-Skid Mat",
+              "description": "Standard anti-skid door mat, suitable for all entrances.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86e1c3a152594b5d3963_Image3.webp"
+            },
+            {
+              "name": "Heavy Duty Anti-Skid Mat",
+              "description": "Extra grip mat for high-traffic areas and wet floors.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688f07700531ca0fb0b_Image9.webp"
+            }
+          ]
+        },
+        {
+          "id": "cotton-rubber-coir",
+          "name": "Cotton / Rubber / Coir Mats",
+          "description": "Natural and synthetic mat options for every preference and budget.",
+          "products": [
+            {
+              "name": "Coir Door Mat",
+              "description": "Natural coir fibre mat — eco-friendly and durable.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868827a351cab661b9fd_Image8.webp"
+            },
+            {
+              "name": "Cotton Bath Mat",
+              "description": "Soft absorbent cotton mat ideal for bathrooms.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688c0638815a0faae50_Image4.webp"
+            },
+            {
+              "name": "Rubber Mat",
+              "description": "Hard-wearing rubber mat for garage, kitchen, and utility areas.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688b41751198bb93539_Image5.webp"
+            }
+          ]
+        },
+        {
+          "id": "roll-carpet",
+          "name": "Roll Mat & Carpet",
+          "description": "Roll mats and carpets for living rooms, offices, and commercial spaces.",
+          "products": [
+            {
+              "name": "Roll Mat — Standard",
+              "description": "Versatile roll mat available in custom lengths.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86877e97745247302767_Image6.webp"
+            },
+            {
+              "name": "Designer Carpet",
+              "description": "Patterned carpet roll for living and dining rooms.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86882ef160be55cb2d11_Image7.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bottles-jars",
+      "name": "Bottles & Jars",
+      "tag": "Popular",
+      "tagStyle": "gold",
+      "description": "Complete bottle and jar catalogues — insulated, storage, and everyday use varieties for home and office.",
+      "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688c0638815a0faae50_Image4.webp",
+      "subcategories": [
+        {
+          "id": "bottles",
+          "name": "Bottles",
+          "description": "Water bottles, insulated flasks, and daily-use bottles for all ages.",
+          "products": [
+            {
+              "name": "Insulated Steel Bottle",
+              "description": "Double-wall insulated bottle — keeps drinks hot or cold for 12 hours.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868844033332efe36946_Image1.webp"
+            },
+            {
+              "name": "Plastic Water Bottle",
+              "description": "Lightweight BPA-free plastic bottle, ideal for school and travel.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688c0638815a0faae50_Image4.webp"
+            },
+            {
+              "name": "Sports Flask",
+              "description": "Wide-mouth sports flask with leak-proof lid.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688b41751198bb93539_Image5.webp"
+            }
+          ]
+        },
+        {
+          "id": "jars",
+          "name": "Jars",
+          "description": "Storage jars for kitchen, pantry, and gifting purposes.",
+          "products": [
+            {
+              "name": "Glass Storage Jar",
+              "description": "Airtight glass jar — suitable for spices, grains, and dry foods.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688f07700531ca0fb0b_Image9.webp"
+            },
+            {
+              "name": "Plastic Canister Set",
+              "description": "Set of 3 stackable plastic canisters for kitchen storage.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8c3013e234d203f5e297_Image10.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school",
+      "name": "School Supplies",
+      "tag": "School",
+      "tagStyle": "blue",
+      "description": "Full school catalogue — stationery, bottles, bags and classroom essentials for students of all ages.",
+      "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688b41751198bb93539_Image5.webp",
+      "subcategories": [
+        {
+          "id": "stationery",
+          "name": "Stationery",
+          "description": "Pens, pencils, notebooks, and writing essentials for students.",
+          "products": [
+            {
+              "name": "Notebook Set",
+              "description": "Pack of 5 ruled notebooks, A4 size, 200 pages each.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86877e97745247302767_Image6.webp"
+            },
+            {
+              "name": "Pen & Pencil Pack",
+              "description": "Assorted ballpoint pens and graphite pencils for classroom use.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688f07700531ca0fb0b_Image9.webp"
+            }
+          ]
+        },
+        {
+          "id": "school-bags",
+          "name": "Bags & Cases",
+          "description": "Backpacks, pencil cases, and lunch bags designed for school use.",
+          "products": [
+            {
+              "name": "School Backpack",
+              "description": "Ergonomic backpack with padded straps and multiple compartments.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688b41751198bb93539_Image5.webp"
+            },
+            {
+              "name": "Pencil Case",
+              "description": "Durable zippered pencil case with organiser pockets.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868827a351cab661b9fd_Image8.webp"
+            }
+          ]
+        },
+        {
+          "id": "school-bottles",
+          "name": "School Bottles",
+          "description": "Leak-proof, BPA-free bottles sized for school bags.",
+          "products": [
+            {
+              "name": "Kids Water Bottle 500ml",
+              "description": "Colourful leak-proof bottle perfect for school bags.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688c0638815a0faae50_Image4.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "furnishing",
+      "name": "Furnishing",
+      "tag": null,
+      "tagStyle": null,
+      "description": "Furnishing catalogue covering curtains, covers, cushions and fabric accessories for modern homes.",
+      "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86877e97745247302767_Image6.webp",
+      "subcategories": [
+        {
+          "id": "curtains-covers",
+          "name": "Curtains & Covers",
+          "description": "Window curtains, sofa covers, and bed covers in a range of fabrics.",
+          "products": [
+            {
+              "name": "Polyester Curtain Pair",
+              "description": "Blackout polyester curtains available in multiple colours.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86877e97745247302767_Image6.webp"
+            },
+            {
+              "name": "Sofa Cover Set",
+              "description": "Stretchable sofa cover set — fits 3-seater sofas.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86882ef160be55cb2d11_Image7.webp"
+            }
+          ]
+        },
+        {
+          "id": "cushions-accessories",
+          "name": "Cushions & Accessories",
+          "description": "Decorative cushions, pillow covers, and fabric home accessories.",
+          "products": [
+            {
+              "name": "Cushion Cover Set (5 pcs)",
+              "description": "Printed cushion covers in assorted designs — 16x16 inches.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688f07700531ca0fb0b_Image9.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "housekeeping",
+      "name": "Housekeeping & Household",
+      "tag": null,
+      "tagStyle": null,
+      "description": "Cleaning tools, organisers and everyday household products for homes, offices, and institutions.",
+      "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86882ef160be55cb2d11_Image7.webp",
+      "subcategories": [
+        {
+          "id": "cleaning",
+          "name": "Housekeeping",
+          "description": "Mops, brooms, brushes, and cleaning accessories for every space.",
+          "products": [
+            {
+              "name": "Flat Mop Set",
+              "description": "Microfibre flat mop with telescopic handle and reusable pad.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac86882ef160be55cb2d11_Image7.webp"
+            },
+            {
+              "name": "Broom & Dustpan Set",
+              "description": "Stiff-bristle broom with matching dustpan.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868827a351cab661b9fd_Image8.webp"
+            }
+          ]
+        },
+        {
+          "id": "household",
+          "name": "Household",
+          "description": "Everyday household essentials — organisers, hangers, storage, and more.",
+          "products": [
+            {
+              "name": "Storage Basket Set",
+              "description": "Set of 3 woven storage baskets in assorted sizes.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8c3013e234d203f5e297_Image10.webp"
+            },
+            {
+              "name": "Clothes Hanger Pack",
+              "description": "Pack of 20 non-slip velvet hangers.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868844033332efe368f9_Image11.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "specialty",
+      "name": "Wonder & TSB Lines",
+      "tag": "Specialty",
+      "tagStyle": "blue",
+      "description": "Specialty product lines including Wonder and TSB ranges — available for bulk and retail distribution.",
+      "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868827a351cab661b9fd_Image8.webp",
+      "subcategories": [
+        {
+          "id": "wonder",
+          "name": "Wonder Range",
+          "description": "The Wonder product line — everyday utility products at competitive prices.",
+          "products": [
+            {
+              "name": "Wonder Multi-Purpose Cleaner",
+              "description": "Concentrated multi-surface cleaner for home and office.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac868827a351cab661b9fd_Image8.webp"
+            },
+            {
+              "name": "Wonder Storage Set",
+              "description": "Set of airtight storage containers — Wonder brand.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8c3013e234d203f5e297_Image10.webp"
+            }
+          ]
+        },
+        {
+          "id": "tsb",
+          "name": "TSB Range",
+          "description": "TSB specialty line — bulk-friendly pricing for retail and institutional buyers.",
+          "products": [
+            {
+              "name": "TSB Utility Pack",
+              "description": "Assorted utility product pack under the TSB label.",
+              "image": "https://raw.githubusercontent.com/abx1709/Images/main/images-valentine/67ac8688f07700531ca0fb0b_Image9.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
